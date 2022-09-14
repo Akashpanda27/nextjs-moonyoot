@@ -2,7 +2,7 @@ const FORTMATIC_KEY = process.env.NEXT_PUBLIC_FORTMATIC_KEY
 const RPC_URL = process.env.NEXT_PUBLIC_ALCHEMY_RPC_URL
 
 const config = {
-  title: 'MoonYoots',
+  title: 'MoonY00ts',
   description: 'A showcase dapp which is built for you to create your own',
   contractAddress: '0xC5A13e6960f7A0F87545F45e0e5Ea4378f6c915b',
   maxMintAmount: 25,

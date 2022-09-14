@@ -111,11 +111,11 @@ export default function Home() {
               </p>
             </div>
           </div>
-          {/* <Link href="/mint" passHref>
-            {/* <a className="mt-14 mb-8 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
+          <Link href="/mint" passHref>
+            <a className="mt-14 mb-8 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
               {/* Go to minting page */}
-              {/* MINT */}
-              {/* <svg
+              MINT
+              <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-6 h-6 ml-2 mt-0.5"
                 fill="none"
@@ -128,9 +128,12 @@ export default function Home() {
                   strokeWidth="2"
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
-              </svg> */}
-            {/* </a> */}
-          {/* </Link> */} 
+              </svg>
+            </a>
+          </Link> 
+
+          
+          
         </div>
       </div>
     </div>
