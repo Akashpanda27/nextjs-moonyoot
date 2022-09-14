@@ -3,7 +3,7 @@ const RPC_URL = process.env.NEXT_PUBLIC_ALCHEMY_RPC_URL
 
 const config = {
   title: 'MoonY00ts',
-  description: 'A showcase dapp which is built for you to create your own',
+  description: '555 genesis y00ts to the moon',
   contractAddress: '0xC5A13e6960f7A0F87545F45e0e5Ea4378f6c915b',
   maxMintAmount: 25,
   presaleMaxMintAmount: 25,
