@@ -27,3 +27,13 @@ html {
   background: var(--clr-selection-bg);
   color: var(--clr-selection-text);
 }
+
+h2{
+  color: #00FD73;
+}
+p{
+  color: white;
+}
+a{
+  color: #00FD73;
+}
