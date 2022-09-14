@@ -21,7 +21,7 @@ export default function Home() {
               <span className="bg-gradient-to-br from-brand-blue to-brand-purple pr-2 bg-clip-text text-transparent ">
                 Moon
               </span>
-              Y00ts
+              y00ts
             </a>
           </Link>
 
@@ -103,7 +103,7 @@ export default function Home() {
               <p className="mt-4 text-lg text-left">
                 MoonY00ts are a collection of 5,55 burning hot NFTs living in
                 the core of the blockchain. Each individual MoonY00t is
-                carefully curated from over 150 traits, along with some
+                carefully curated from over 75 traits, along with some
                 incredibly rare 1/1s that have traits that cant be found from
                 any other Y00t. Our vision is to create an amazing project
                 that will shed light, joy, love, and creativity! Burn on,
@@ -111,9 +111,9 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <Link href="/mint" passHref>
+          {/* <Link href="/mint" passHref>
             <a className="mt-14 mb-8 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
-              {/* Go to minting page */}
+              Go to minting page
               MINT
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +130,7 @@ export default function Home() {
                 />
               </svg>
             </a>
-          </Link> 
+          </Link>  */}
 
           
           
