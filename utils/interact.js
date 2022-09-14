@@ -27,7 +27,7 @@ export const getMaxSupply = async () => {
 
 export const isPausedState = async () => {
   //const paused = await nftContract.methods.paused().call()
-  const paused=false;
+  const paused=true;
   return paused
 }
 
@@ -39,7 +39,7 @@ export const isPublicSaleState = async () => {
 
 export const isPreSaleState = async () => {
   //const preSale = await nftContract.methods.whitelistSale().call()
-  const preSale=true
+  const preSale=false
   return preSale
 }
 

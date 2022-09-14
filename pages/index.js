@@ -91,7 +91,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row md:space-x-16 space-y-10 items-center mt-15 w-full">
             {/* BoredApe Image */}
             <img
-              src="/images/148.jpg"
+              src="/images/yoot1.gif"
               className="w-64 h-64 rounded-md object-cover"
             />
 
@@ -101,7 +101,7 @@ export default function Home() {
               </h2>
 
               <p className="mt-4 text-lg text-left">
-                MoonY00ts are a collection of 5,55 burning hot NFTs living in
+                MoonY00ts are a collection of 555 burning hot NFTs living in
                 the core of the blockchain. Each individual MoonY00t is
                 carefully curated from over 75 traits, along with some
                 incredibly rare 1/1s that have traits that cant be found from
@@ -111,9 +111,9 @@ export default function Home() {
               </p>
             </div>
           </div>
-          {/* <Link href="/mint" passHref>
+          <Link href="/mint" passHref>
             <a className="mt-14 mb-8 font-coiny uppercase inline-flex items-center px-6 oy-2 text-sm sm:text-2xl md:text-3xl font-medium text-center rounded text-rose-500 hover:bg-rose-600 hover:text-white">
-              Go to minting page
+              {/* Go to minting page */}
               MINT
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +130,7 @@ export default function Home() {
                 />
               </svg>
             </a>
-          </Link>  */}
+          </Link> 
 
           
           

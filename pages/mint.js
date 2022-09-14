@@ -124,7 +124,7 @@ export default function Mint() {
         <div className="flex flex-col items-center justify-center h-full w-full px-2 md:px-10">
           <div className="z-1 md:max-w-3xl w-full bg-gray-900/90 filter backdrop-blur-sm py-4 rounded-md px-2 md:px-10 flex flex-col items-center">
             <h1 className="font-coiny uppercase font-bold text-3xl md:text-4xl bg-gradient-to-br  from-brand-green to-brand-blue bg-clip-text text-transparent mt-3">
-              {paused ? 'Paused' : isPreSale ? 'Pre-Sale' : 'Public Sale'}
+              {paused ? 'Mint opens on Sep 18th' : isPreSale ? 'Pre-Sale' : 'Public Sale'}
             </h1>
             <h3 className="text-sm text-pink-200 tracking-widest">
               {walletAddress
