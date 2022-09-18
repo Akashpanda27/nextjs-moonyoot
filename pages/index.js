@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>{config.title}</title>
         <meta name="description" content={config.description} />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/yoot.ico" />
       </Head>
 
       <header className="min-w-full text-gray-800 py-14 px-4 md:px-0">
@@ -41,6 +41,11 @@ export default function Home() {
                       fill={'#00FD73'}
                     ></path>
                   </svg>
+                </a>
+              </li>
+              <li className="cursor-pointer">
+                <a href="https://etherscan.io/address/0x6b34595dD82FF569aA07B87Ca5719f695f27d57e#readContract" target="_blank" rel="noreferrer">
+                <img src = "/images/etherscan.svg" alt="My Happy SVG"/>
                 </a>
               </li>
 

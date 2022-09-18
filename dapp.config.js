@@ -4,7 +4,7 @@ const RPC_URL = process.env.NEXT_PUBLIC_ALCHEMY_RPC_URL
 const config = {
   title: 'MoonY00ts',
   description: '555 genesis y00ts to the moon',
-  contractAddress: '0xC5A13e6960f7A0F87545F45e0e5Ea4378f6c915b',
+  contractAddress: '0x6b34595dD82FF569aA07B87Ca5719f695f27d57e',
   maxMintAmount: 25,
   presaleMaxMintAmount: 25,
   price: 0.0098
@@ -12,7 +12,7 @@ const config = {
 
 const onboardOptions = {
   dappId: process.env.NEXT_PUBLIC_DAPP_ID,
-  networkId: 4, // Rinkeby
+  networkId: 1, // Rinkeby
   darkMode: true,
   walletSelect: {
     wallets: [
