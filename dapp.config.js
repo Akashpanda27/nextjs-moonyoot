@@ -5,7 +5,7 @@ const config = {
   title: 'House of the apes',
   description: 'Five noble families fight for control of the mythical land of Otherside',
   contractAddress: '0x6b34595dD82FF569aA07B87Ca5719f695f27d57e',
-  maxMintAmount: 25,
+  maxMintAmount: 5,
   presaleMaxMintAmount: 25,
   price: 0.003
 }

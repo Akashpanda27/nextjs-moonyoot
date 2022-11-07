@@ -30,7 +30,7 @@ export const getMaxSupply = async () => {
 
 export const isPausedState = async () => {
   //const paused = await nftContract.methods.paused().call()
-  const paused=true;
+  const paused=false;
   return paused
 }
 
