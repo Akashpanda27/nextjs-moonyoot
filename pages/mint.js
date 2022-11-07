@@ -142,7 +142,7 @@ export default function Mint() {
                 </div>
 
                 <img
-                  src="/images/1off1-4.jpg"
+                  src="/images/yoot2.jpg"
                   className="object-cover w-full sm:h-[280px] md:w-[250px] rounded-md"
                 />
               </div>
