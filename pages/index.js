@@ -19,9 +19,9 @@ export default function Home() {
           <Link href="#">
             <a className="font-coiny text-xl md:text-3xl font-bold">
               <span className="bg-gradient-to-br from-brand-blue to-brand-purple pr-2 bg-clip-text text-transparent ">
-                Moon
+                House Of The
               </span>
-              y00ts
+              Apes
             </a>
           </Link>
 
@@ -29,7 +29,7 @@ export default function Home() {
           <nav aria-label="Contact Menu">
             <ul className="flex items-center space-x-4 md:space-x-6">
               <li className="cursor-pointer">
-                <a href="https://opensea.io/collection/moony00ts" target="_blank" rel="noreferrer">
+                <a href="https://opensea.io/collection/houseoftheapes" target="_blank" rel="noreferrer">
                   <svg
                     className="w-6 h-6 md:w-8 md:h-8"
                     viewBox="0 0 90 90"
@@ -51,7 +51,7 @@ export default function Home() {
 
               <li className="cursor-pointer">
                 <a
-                  href="https://twitter.com/moony00tsNFT"
+                  href="https://www.twitter.com/HouseOfTheApes"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -70,7 +70,7 @@ export default function Home() {
 
               <li className="cursor-pointer">
                 <a
-                  href="https://discord.gg/UaMdnchRxe"
+                  href="https://discord.gg/M84tXAgQEw"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -102,17 +102,19 @@ export default function Home() {
 
             <div className="flex flex-col md:items-start items-center justify-center text-center font-coiny text-gray-800 px-4 md:px-0 py-10 mt-14">
               <h2 className="font-bold text-2xl md:text-4xl uppercase">
-                About MoonY00ts
+                About Us
               </h2>
 
               <p className="mt-4 text-lg text-left">
-                MoonY00ts are a collection of 555 burning hot NFTs living in
+              Five noble families fight for control of the mythical land of Otherside. In the mythical continent of Otherside, several powerful families fight for control of the Five Kingdoms. Political and sexual intrigue is pervasive. Degod (musk), King of Otherside, asks his old friend, Lord Sapiophile (Tim), to serve as Hand of the King, or highest official. Secretly warned that the previous Hand was assassinated, Sapiophile accepts in order of business to investigate further. Meanwhile, Queen Nimue Orangutan’s family may be hatching a plot to take power. Across the sea, the last members of the previous and deposed ruling family, the Bonobos, are also scheming to regain the throne. The friction between the houses Gorillas, Bonobos, Orangutans, Siamangs and Gibbons and with the remaining great houses like chimpanzees leads to full-scale war.
+              <br></br>
+                {/* Houseoftheapes are a collection of 555 burning hot NFTs living in
                 the core of the blockchain. Each individual MoonY00t is
                 carefully curated from over 75 traits, along with some
                 incredibly rare 1/1s that have traits that cant be found from
                 any other Y00t. Our vision is to create an amazing project
                 that will shed light, joy, love, and creativity! Burn on,
-                MoonY00t!
+                MoonY00t! */}
               </p>
             </div>
           </div>
